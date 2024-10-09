@@ -1,4 +1,4 @@
-# Real-ESRGAN realesr-general-x4v3 model
+# TensorRT Real-ESRGAN realesr-general-x4v3 model
 
 ## How to Run
 0. Replace YOUR_TENSORRT_INCLUDE_DIR and YOUR_TENSORRT_LIB_DIR in CMakeLists.txt with your TensorRT include and lib directories.
